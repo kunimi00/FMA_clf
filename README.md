@@ -19,7 +19,7 @@
 
 
 
-Clone the repository.
+1. Clone the repository.
 
     ```sh
     git clone https://github.com/kunimi00/FMA_clf
@@ -27,7 +27,7 @@ Clone the repository.
     ```
 
 
-Install dependencies.
+1. Install dependencies.
 
     ```sh
     pip install --upgrade pip setuptools wheel
@@ -36,7 +36,7 @@ Install dependencies.
     ```
 
 
-Download some data, verify its integrity, and uncompress the archives.
+1. Download some data, verify its integrity, and uncompress the archives.
 
     ```sh
     cd data
